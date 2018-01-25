@@ -1,0 +1,128 @@
+p{
+	color:0066ff;
+}
+h1{
+	font-size:40px;
+}
+.listitem{
+	font-size:20px;
+	color:3399ff;
+}
+#background{
+	background-color:#ffff00;
+}
+#button {
+	width:150px;
+	height:75px;
+	color:white;
+	background-color:black;
+	border-radius:15px;
+	font-size:25px;
+}
+#header{
+	font-size:40;
+	color:ffff00;
+}
+header{
+	height:100px;
+	width:1335px;
+	border:6px;
+	background-color:cc00ff;
+	margin-bottom
+}
+footer{
+	height:100px;
+	width:1335px;
+	border:6px;
+	background-color:cc00ff;
+	color:#ffffff;
+}
+#wrap-trivia {
+	height:275px;
+	width:450px;
+	border:5px double black;
+	margin:auto;
+}
+.olbox{
+	height:150px;
+	width:200px;
+	border:5px dashed black;
+}
+#VH{
+	color:cc00ff;
+	font-size:1.2em;
+}
+
+#one{
+	position:relative;
+	height: 150px;
+	width: 150px;
+	background-color: red;
+	display:inline-block;
+	position: absolute
+	z-index:2;
+	top:750px;
+	left:50%;
+}
+
+#two{
+	position:fixed;
+	height: 300px;
+	width: 200px;
+	background-color: blue;
+	display:inline-block;
+	position: absolute
+	z-index:1;
+	left:25%;
+}
+#three{
+	height: 400px;
+	width: 200px;
+	background-color: green;
+	display:inline-block;
+	position:absolute;
+}
+#navitem{
+	list-style-type:none;
+	display:inline;
+	padding-right:1.5em;
+	font-size:2em;
+}
+#navmenu{
+	height:60;
+	width:650;
+	margin:auto;
+	background-color:0000ff;
+}
+.Link:link{ 
+	color:red;
+} 
+
+.Link:visited{ 
+	color:66ff33;
+} 
+
+.Link:hover{ 
+	color:purple;
+} 
+
+.Link:active{ 
+	color:orange;
+}
+#rightside{
+	float:right;
+	width:50%;
+}
+#leftside{
+	width:50%;
+	margin:1px, 1px, 1px, 5em;
+}
+#vid{
+	padding-left:100px;
+}
+#aud{
+	padding-left:500px; 
+}
+#h1contact{
+	color:cc00ff;
+}
